@@ -1,0 +1,32 @@
+[
+    {
+        "name":"iphone",
+        "price":129,
+        "featured":true,
+        "company":"apple"
+    },
+
+    {
+        "name":"readmi",
+        "price":126,
+        "company":"mi"
+    },
+    {
+        "name":"galaxy note 10",
+        "price":145,
+        "featured":true,
+        "company":"samsung"
+    },
+    {
+        "name":"neackband",
+        "price":19,
+        "featured":true,
+        "company":"oneplus"
+    },
+    {
+        "name":"tv",
+        "price":19,
+        "featured":false,
+        "company":"oneplus"
+    }
+]
